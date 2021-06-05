@@ -1,0 +1,36 @@
+#todoList{
+    padding: 20px;
+    font-size: 30px;
+}
+li{
+    list-style-type: none;
+}
+input{
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.fa-trash , .fa-pencil-square-o{
+    font-size: 30px !important;
+    color: rgba(23, 23, 228, 0.945);
+}
+.add{
+    background-color: rgb(103, 204, 204);
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.dlt{
+    background-color: red;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+.main-div{
+    align-items: center;
+    text-align: center;
+}
